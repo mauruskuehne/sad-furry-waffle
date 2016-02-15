@@ -1,3 +1,6 @@
+# ignore line ending differences
+* -crlf
+
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
